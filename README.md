@@ -4,7 +4,22 @@
 
 I specialize in building state-of-the-art **AI and ML solutions** that drive impactful results. With over 5 years of hands-on experience, I excel at developing **end-to-end machine learning pipelines**, **large language model optimization**, and **advanced computer vision systems**. My expertise spans **generative AI**, **multi-modal models**, and **ML infrastructure deployment** using **Docker**, **Kubernetes**, and **Cloud Platforms**.  
 
+<img src="graduation.png" width="400" align="right" alt="UF Graduation Photo"/>
+
+🎓 **Education**: University of Florida Graduate
+
 ---
+
+### 🤝 Community Engagement:
+- 🎤 **Conference Speaker & Attendee**: Active participant at PyCon US and other tech conferences
+- 👥 **Tech Community Builder**: Engaging with developer communities and sharing knowledge
+- 🌟 **Mentorship**: Contributing to the growth of aspiring developers
+  
+
+<img src="party.png" width="400" align="center" alt="Pycon"/> <img src="anacondas.png" width="400" align="right" alt="Pycon"/> 
+
+---
+
 
 ### 🔥 Key Expertise:  
 - **Computer Vision**: Advanced object detection, segmentation, quantification, and spatial analysis using **YOLO**, **PyTorch**, and **JetsonOrin**.  
@@ -22,6 +37,8 @@ I specialize in building state-of-the-art **AI and ML solutions** that drive imp
 - **MLOps & Deployment**: Docker, Kubernetes, MLflow, FastAPI, Prometheus, Grafana  
 - **Cloud & DevOps**: Azure, AWS, GitHub Actions, Terraform  
 - **Data Engineering**: SQL, MongoDB, DVC  
+
+<img src="pycon.png" width="300" align="right" alt="At PyConUS"/>
 
 ---
 
