@@ -4,7 +4,7 @@
 
 I specialize in building state-of-the-art **AI and ML solutions** that drive impactful results. With over 5 years of hands-on experience, I excel at developing **end-to-end machine learning pipelines**, **large language model optimization**, and **advanced computer vision systems**. My expertise spans **generative AI**, **multi-modal models**, and **ML infrastructure deployment** using **Docker**, **Kubernetes**, and **Cloud Platforms**.  
 
-<img src="graduation.png" width="400" align="right" alt="UF Graduation Photo"/>
+<img src="graduation.png" width="300" align="center" alt="UF Graduation Photo"/>
 
 🎓 **Education**: University of Florida Graduate
 
@@ -16,7 +16,7 @@ I specialize in building state-of-the-art **AI and ML solutions** that drive imp
 - 🌟 **Mentorship**: Contributing to the growth of aspiring developers
   
 
-<img src="party.png" width="400" align="center" alt="Pycon"/> <img src="anacondas.png" width="400" align="right" alt="Pycon"/> 
+<img src="party.png" width="400" align="right" alt="Pycon"/> <img src="anacondas.png" width="400" align="center" alt="Pycon"/> 
 
 ---
 
