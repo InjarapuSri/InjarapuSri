@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Srisharanya Injarapu!  
 
-🚀 **Full-Stack AI Engineer | AI Systems Engineer | Data & ML Pipeline Engineer**  
-
-I specialize in building state-of-the-art **AI and ML solutions** that drive impactful results. With over 5 years of hands-on experience, I excel at developing **end-to-end machine learning pipelines**, **large language model optimization**, and **advanced computer vision systems**. My expertise spans **generative AI**, **multi-modal models**, and **ML infrastructure deployment** using **Docker**, **Kubernetes**, and **Cloud Platforms**.  
+🚀 ** Software Engineer | Data & ML Pipeline Engineer**  
 
 <img src="graduation.png" width="300" align="center" alt="UF Graduation Photo"/>
 
