@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Srisharanya Injarapu!  
 
-🚀 ** Software Engineer | Data & ML Pipeline Engineer**  
+🚀 ** Software Engineer | Data & ML Engineer**  
 
 <img src="graduation.png" width="300" align="center" alt="UF Graduation Photo"/>
 
